@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me: 📧 sanjanasaini.jobs@gmail.com
 
-![](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif | width=100)
+[![sadcatnoises](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif | width=100)
 
 <!---
 sanjanasaini/sanjanasaini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
