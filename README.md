@@ -1,4 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)  
+
 
 - 👋 Hi, I’m @sanjanasaini
 - 👀 I’m interested in Cloud Computing & DevOps 
