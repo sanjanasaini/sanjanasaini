@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @sanjanasaini
 - 👀 I’m interested in Cloud Computing & DevOps 
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning Ansible Automation Platform
 - 📫 How to reach me: 📧 sanjanasaini.jobs@gmail.com
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
